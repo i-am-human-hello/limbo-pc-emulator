@@ -10,3 +10,6 @@ To run Limbo PC Emulator you need an ISO file
 according to the operating system you want
 you can visit
 https://github.com/limboemu/limbo/wiki/Guides
+# update
+We do not always make the latest releases you can visit the official page to install the latest version
+https://github.com/limboemu/limbo/releases
